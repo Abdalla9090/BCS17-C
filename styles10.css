@@ -1,0 +1,30 @@
+form{
+    background-color: #aeaeae;
+    font-family: Arial, sans-serif;
+    width: 450px;
+    padding: 10px;
+}
+label{
+    float: left;
+    clear: left;
+    display: block;
+    width: 100px;
+    text-align: right;
+    padding-right: 10px;
+    margin-top: 10px;
+}
+input, textarea{
+    margin-top: 10px;
+    display: block;
+    height: 25px;
+}
+input[type="submit"], input[type="reset"]{
+    margin-top: 15px;
+   margin-right: 10px;
+    background-color: #432bf8;
+    color: #ffffff;
+    height: 30px;
+    border: #432bf8;
+   float: right;
+}
+
